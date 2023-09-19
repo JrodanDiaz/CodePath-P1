@@ -1,4 +1,3 @@
-import iceCream from "../assets/ice-cream-transparent.png";
 import Clevelands from "../assets/Clevelands.jpg";
 import Freddo from "../assets/Freddo.jpg";
 import MagicCow from "../assets/MagicCow.jpg";
