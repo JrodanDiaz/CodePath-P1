@@ -27,6 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+![WalkthroughCodePathProject1](https://github.com/JrodanDiaz/CodePath-P1/assets/129818825/7e772204-c25b-43cd-bbd5-5fe8c3b23cb4)
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
