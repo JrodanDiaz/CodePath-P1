@@ -8,9 +8,11 @@ function Card({ img, name, type, menu }) {
         <div className="card-text">
           <h3>{name}</h3>
           <h5>{type}</h5>
+        </div>
+        <div className="btn-container">
           <a href={menu} target="_blank" rel="noopener noreferrer">
             {/* The above tags are so that the anchor tag opens a new tab */}
-            <button>View Menu</button>
+            <button className="menu-btn">View Menu</button>
           </a>
         </div>
       </div>
