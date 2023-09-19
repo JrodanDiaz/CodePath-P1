@@ -1,13 +1,14 @@
-import { useState } from 'react'
-import './App.css'
+import "./App.css";
+import Header from "./components/Header";
+import CardContainer from "./components/CardContainer";
 
 function App() {
-
   return (
     <>
-      <h1>dub</h1>
+      <Header />
+      <CardContainer />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
